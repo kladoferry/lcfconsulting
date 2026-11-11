@@ -1,5 +1,13 @@
 # Inventário LCF Tráfego Quente
 
+## 2026-11-11 07:11 America/Sao_Paulo
+
+- **Tema**: Senado 2027 (licitação iPhones 18 Pro e celulares)
+- **URL**: https://www.lcfconsulting.com.br/senado-2027-iphones-18-pro-licitacao-6-milhoes (a publicar via Vercel; conteúdo em https://github.com/kladoferry/lcfconsulting/blob/main/pages/senado-2027-iphones-18-pro-licitacao-6-milhoes.md)
+- **Palavras-chave usadas**: Senado 2027 iPhones 18 Pro, licitação Senado celulares 6 milhões, iPhone 18 Pro senadores, comodato celulares Senado 2027, gasto público telefonia Senado
+- **Motivo**: Pico massivo de engajamento no X (post com 25k+ likes e 1,5M views) sobre a licitação de R$ 6 milhões para 95 iPhones 18 Pro e 330 celulares em comodato a partir de fev/2027; cobertura ampla em G1, CNN, Poder360.
+- **Horário**: 07:11
+
 ## 2026-11-10 07:11 America/Sao_Paulo
 
 - **Tema**: ENEM 2026 (segundo dia 15/11 - Matemática e Ciências da Natureza)
