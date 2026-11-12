@@ -1,5 +1,13 @@
 # Inventário LCF Tráfego Quente
 
+## 2026-11-12 07:12 America/Sao_Paulo
+
+- **Tema**: Moraes/STF (caso Vorcaro, relatórios PF e indícios)
+- **URL**: https://www.lcfconsulting.com.br/moraes-stf-caso-vorcaro-relatorios-pf-indicios-2026 (a publicar via Vercel; conteúdo em https://github.com/kladoferry/lcfconsulting/blob/main/pages/moraes-stf-caso-vorcaro-relatorios-pf-indicios-2026.md)
+- **Palavras-chave usadas**: Moraes caso Vorcaro, relatórios PF STF 2026, Fachin indícios crime ministros, Banco Master Moraes, investigação STF Vorcaro, afastamento delegados Cola Cajé
+- **Motivo**: Pico de engajamento no X (posts com 100-700+ likes e milhares de views) sobre Fachin avaliando que a PF pode apontar indícios de crimes de ministros, afastamento de delegados após relatórios sobre Moraes/Toffoli/Nunes Marques e Vorcaro; cobertura O Globo, BBC, Estadão.
+- **Horário**: 07:12
+
 ## 2026-11-11 07:11 America/Sao_Paulo
 
 - **Tema**: Senado 2027 (licitação iPhones 18 Pro e celulares)
