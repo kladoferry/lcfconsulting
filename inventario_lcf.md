@@ -1,5 +1,13 @@
 # Inventário LCF Tráfego Quente
 
+## 2026-11-14 07:11 America/Sao_Paulo
+
+- **Tema**: Eleições 2026 (gastos na Meta / Flávio Bolsonaro R$18,4 mi)
+- **URL**: https://www.lcfconsulting.com.br/eleicoes-2026-gastos-meta-flavio-bolsonaro (a publicar via Vercel; conteúdo em https://github.com/kladoferry/lcfconsulting/blob/main/pages/eleicoes-2026-gastos-meta-flavio-bolsonaro.md)
+- **Palavras-chave usadas**: gastos Meta eleições 2026, Flávio Bolsonaro anúncios Meta, prestação de contas TSE 2026, PL vs PT gastos campanha, publicidade digital eleições, ranking gastos Meta candidatos
+- **Motivo**: Pico de engajamento no X (post UpdateCharts com 19k+ likes e 675k views) sobre Flávio Bolsonaro como o candidato que mais pagou à Meta (R$18,4 milhões); cobertura g1 e outros em 13/11 sobre recorde de R$522,7 mi à Meta e multa TSE.
+- **Horário**: 07:11
+
 ## 2026-11-12 07:12 America/Sao_Paulo
 
 - **Tema**: Moraes/STF (caso Vorcaro, relatórios PF e indícios)
