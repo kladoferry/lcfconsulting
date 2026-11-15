@@ -1,5 +1,13 @@
 # Inventário LCF Tráfego Quente
 
+## 2026-11-15 07:11 America/Sao_Paulo
+
+- **Tema**: ENEM 2026 (segundo dia 15/11 - horário, saída com caderno e gabarito)
+- **URL**: https://www.lcfconsulting.com.br/enem-2026-segundo-dia-horario-saida-caderno-gabarito (a publicar via Vercel; conteúdo em https://github.com/kladoferry/lcfconsulting/blob/main/pages/enem-2026-segundo-dia-horario-saida-caderno-gabarito.md)
+- **Palavras-chave usadas**: ENEM 2026 segundo dia horário, quando sair ENEM 2026 caderno, gabarito ENEM 2026 quando sai, horário término ENEM 2026, portões ENEM 2026
+- **Motivo**: Pico real de engajamento no X neste domingo (posts G1, Inep, O Globo com milhares de views) porque é o dia da prova: segundo dia de Matemática e Ciências da Natureza. Buscas por horário, saída e caderno em alta.
+- **Horário**: 07:11
+
 ## 2026-11-14 07:11 America/Sao_Paulo
 
 - **Tema**: Eleições 2026 (gastos na Meta / Flávio Bolsonaro R$18,4 mi)
