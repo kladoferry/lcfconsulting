@@ -1,5 +1,13 @@
 # Inventário LCF Tráfego Quente
 
+## 2026-11-16 07:11 America/Sao_Paulo
+
+- **Tema**: ENEM 2026 (pós-2º dia 15/11 - reações, dificuldade e próximos passos)
+- **URL**: https://www.lcfconsulting.com.br/enem-2026-segundo-dia-reacoes-dificuldade-proximos-passos (a publicar via Vercel; conteúdo em https://github.com/kladoferry/lcfconsulting/blob/main/pages/enem-2026-segundo-dia-reacoes-dificuldade-proximos-passos.md)
+- **Palavras-chave usadas**: ENEM 2026 segundo dia reacoes, dificuldade ENEM 2026 matematica, gabarito ENEM 2026 quando sai, o que caiu no segundo dia ENEM, ENEM 2026 pos prova
+- **Motivo**: Pico massivo de engajamento no X nas últimas 24h (posts com 19k+ likes e 90k+ views sobre o fim do 2º dia, comparações 1º/2º dia e percepção de dificuldade). Prova de Matemática e Ciências da Natureza ocorreu ontem; busca por reações e prazo de gabarito em alta agora.
+- **Horário**: 07:11
+
 ## 2026-11-15 07:11 America/Sao_Paulo
 
 - **Tema**: ENEM 2026 (segundo dia 15/11 - horário, saída com caderno e gabarito)
