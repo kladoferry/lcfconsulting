@@ -1,5 +1,13 @@
 # Inventário LCF Tráfego Quente
 
+## 2026-11-17 07:12 America/Sao_Paulo
+
+- **Tema**: ENEM 2026 (questões mais difíceis e debate sobre elitismo escola pública)
+- **URL**: https://www.lcfconsulting.com.br/enem-2026-questoes-mais-dificeis-elitismo-escola-publica (a publicar via Vercel; conteúdo em https://github.com/kladoferry/lcfconsulting/blob/main/pages/enem-2026-questoes-mais-dificeis-elitismo-escola-publica.md)
+- **Palavras-chave usadas**: ENEM 2026 questões mais difíceis, ENEM 2026 elitista escola pública, dificuldade matemática ENEM 2026, o que caiu no ENEM 2026 segundo dia, ENEM 2026 acertos
+- **Motivo**: Pico de engajamento nas últimas 24h (posts com 2k-23k likes sobre questões específicas, dificuldade e desigualdade escola pública x privada). Continuação do pico pós-2º dia.
+- **Horário**: 07:12
+
 ## 2026-11-16 07:11 America/Sao_Paulo
 
 - **Tema**: ENEM 2026 (pós-2º dia 15/11 - reações, dificuldade e próximos passos)
