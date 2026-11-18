@@ -1,5 +1,13 @@
 # Inventário LCF Tráfego Quente
 
+## 2026-11-18 07:13 America/Sao_Paulo
+
+- **Tema**: Moraes/STF (recado ameaçador a Rogério Marinho e impeachment no Senado 2027)
+- **URL**: https://www.lcfconsulting.com.br/moraes-stf-marinho-impeachment-senado-2027 (a publicar via Vercel; conteúdo em https://github.com/kladoferry/lcfconsulting/blob/main/pages/moraes-stf-marinho-impeachment-senado-2027.md)
+- **Palavras-chave usadas**: Rogério Marinho STF ameaça, impeachment Moraes Senado 2027, presidência Senado Marinho, recado ameaçador STF Marinho, crime de responsabilidade Moraes, Senado 2027 Alcolumbre
+- **Motivo**: Pico de engajamento nas últimas 24h (posts com centenas de likes e milhares de views sobre relato de ameaça do STF a Marinho, candidato à presidência do Senado que defende pautar impeachment de Moraes; cobertura Metrópoles, CNN, Agora RN). Tema #1 do inventário LCF agora.
+- **Horário**: 07:13
+
 ## 2026-11-17 07:12 America/Sao_Paulo
 
 - **Tema**: ENEM 2026 (questões mais difíceis e debate sobre elitismo escola pública)
