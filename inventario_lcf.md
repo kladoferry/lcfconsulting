@@ -1,5 +1,13 @@
 # Inventário LCF Tráfego Quente
 
+## 2026-11-19 07:12 America/Sao_Paulo
+
+- **Tema**: ENEM 2026 (gabarito oficial divulgado em 18/11 com questão de matemática anulada)
+- **URL**: https://www.lcfconsulting.com.br/enem-2026-gabarito-oficial-questao-matematica-anulada (a publicar via Vercel; conteúdo em https://github.com/kladoferry/lcfconsulting/blob/main/pages/enem-2026-gabarito-oficial-questao-matematica-anulada.md)
+- **Palavras-chave usadas**: gabarito oficial ENEM 2026, questão anulada ENEM 2026 matemática, como consultar gabarito ENEM, ENEM 2026 acertos, resultado individual ENEM 2026
+- **Motivo**: Pico massivo de engajamento nas últimas 24h (posts G1 com 4k+ likes e 400k views, outros com 21k likes sobre gabarito e divergências com cursinhos; divulgação oficial Inep em 18/11 com uma questão de Matemática anulada por inconsistência em tabela de futebol). Tema #1 do inventário LCF agora.
+- **Horário**: 07:12
+
 ## 2026-11-18 07:13 America/Sao_Paulo
 
 - **Tema**: Moraes/STF (recado ameaçador a Rogério Marinho e impeachment no Senado 2027)
