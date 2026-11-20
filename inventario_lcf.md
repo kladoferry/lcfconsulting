@@ -1,5 +1,13 @@
 # Inventário LCF Tráfego Quente
 
+## 2026-11-20 07:09 America/Sao_Paulo
+
+- **Tema**: Moraes/STF (julgamento Lei da Dosimetria 4-15 dez 2026)
+- **URL**: https://www.lcfconsulting.com.br/moraes-stf-lei-dosimetria-julgamento-4-dezembro-2026 (a publicar via Vercel; conteúdo em https://github.com/kladoferry/lcfconsulting/blob/main/pages/moraes-stf-lei-dosimetria-julgamento-4-dezembro-2026.md)
+- **Palavras-chave usadas**: Lei da Dosimetria STF julgamento dezembro 2026, Moraes pauta dosimetria 4 dezembro, redução pena Bolsonaro dosimetria, ADI Lei dosimetria 2026, plenário virtual STF dosimetria
+- **Motivo**: Pico de engajamento nas últimas 24h (posts com 1k-6k likes e dezenas de milhares de views sobre Moraes marcar julgamento virtual das ADIs sobre a Lei 15.402/2026 para 4-15/12, após reunião com Motta e Alcolumbre; cobertura G1, Folha, O Globo, Valor). Tema #1 do inventário LCF agora.
+- **Horário**: 07:09
+
 ## 2026-11-19 07:12 America/Sao_Paulo
 
 - **Tema**: ENEM 2026 (gabarito oficial divulgado em 18/11 com questão de matemática anulada)
